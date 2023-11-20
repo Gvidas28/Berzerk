@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Berzerk.UI", "Berzerk.UI\Berzerk.UI.csproj", "{EB0B3BAB-7766-4B69-88EA-FA1EB803D705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Berzerk.Logic", "Berzerk.Logic\Berzerk.Logic.csproj", "{B605714A-08F0-4A21-916F-9DE9AD70C000}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB0B3BAB-7766-4B69-88EA-FA1EB803D705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0B3BAB-7766-4B69-88EA-FA1EB803D705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0B3BAB-7766-4B69-88EA-FA1EB803D705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0B3BAB-7766-4B69-88EA-FA1EB803D705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B605714A-08F0-4A21-916F-9DE9AD70C000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B605714A-08F0-4A21-916F-9DE9AD70C000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B605714A-08F0-4A21-916F-9DE9AD70C000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B605714A-08F0-4A21-916F-9DE9AD70C000}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D1079C5-011E-41B1-B022-8FF98198C24A}
+	EndGlobalSection
+EndGlobal

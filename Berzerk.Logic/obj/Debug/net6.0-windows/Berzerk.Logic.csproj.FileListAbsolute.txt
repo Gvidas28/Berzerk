@@ -1,0 +1,12 @@
+C:\Users\gvida\Documents\Visual Studio 2022\Projects\Berzerk\Berzerk.Logic\bin\Debug\net6.0-windows\Berzerk.Logic.deps.json
+C:\Users\gvida\Documents\Visual Studio 2022\Projects\Berzerk\Berzerk.Logic\bin\Debug\net6.0-windows\Berzerk.Logic.dll
+C:\Users\gvida\Documents\Visual Studio 2022\Projects\Berzerk\Berzerk.Logic\bin\Debug\net6.0-windows\Berzerk.Logic.pdb
+C:\Users\gvida\Documents\Visual Studio 2022\Projects\Berzerk\Berzerk.Logic\obj\Debug\net6.0-windows\Berzerk.Logic.csproj.AssemblyReference.cache
+C:\Users\gvida\Documents\Visual Studio 2022\Projects\Berzerk\Berzerk.Logic\obj\Debug\net6.0-windows\Berzerk.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gvida\Documents\Visual Studio 2022\Projects\Berzerk\Berzerk.Logic\obj\Debug\net6.0-windows\Berzerk.Logic.AssemblyInfoInputs.cache
+C:\Users\gvida\Documents\Visual Studio 2022\Projects\Berzerk\Berzerk.Logic\obj\Debug\net6.0-windows\Berzerk.Logic.AssemblyInfo.cs
+C:\Users\gvida\Documents\Visual Studio 2022\Projects\Berzerk\Berzerk.Logic\obj\Debug\net6.0-windows\Berzerk.Logic.csproj.CoreCompileInputs.cache
+C:\Users\gvida\Documents\Visual Studio 2022\Projects\Berzerk\Berzerk.Logic\obj\Debug\net6.0-windows\Berzerk.Logic.dll
+C:\Users\gvida\Documents\Visual Studio 2022\Projects\Berzerk\Berzerk.Logic\obj\Debug\net6.0-windows\refint\Berzerk.Logic.dll
+C:\Users\gvida\Documents\Visual Studio 2022\Projects\Berzerk\Berzerk.Logic\obj\Debug\net6.0-windows\Berzerk.Logic.pdb
+C:\Users\gvida\Documents\Visual Studio 2022\Projects\Berzerk\Berzerk.Logic\obj\Debug\net6.0-windows\ref\Berzerk.Logic.dll

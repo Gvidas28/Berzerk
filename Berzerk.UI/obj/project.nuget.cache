@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9kyeoTcq3O+Yj+rwxhPd/z+IcOp7b82r/Ni4sf5LHWYwofS9zrVygqkXZvrBCetS7KlRcGThtisG40WWucOS7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gvida\\Documents\\Visual Studio 2022\\Projects\\Berzerk\\Berzerk.UI\\Berzerk.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gvida\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\gvida\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
